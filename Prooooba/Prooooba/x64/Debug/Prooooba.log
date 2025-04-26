@@ -1,0 +1,6 @@
+﻿  maain.cpp
+  terVer.cpp
+D:\For c++\Prooooba\Prooooba\terVer.cpp(71,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\For c++\Prooooba\Prooooba\terVer.cpp(71,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Prooooba.vcxproj -> D:\For c++\Prooooba\x64\Debug\Prooooba.exe
