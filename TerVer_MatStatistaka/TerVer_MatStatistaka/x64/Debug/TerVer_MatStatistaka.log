@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\For c++\TerVer_MatStatistaka\TerVer_MatStatistaka\sami_function.h(75,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\For c++\TerVer_MatStatistaka\TerVer_MatStatistaka\sami_function.h(75,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TerVer_MatStatistaka.vcxproj -> D:\For c++\TerVer_MatStatistaka\x64\Debug\TerVer_MatStatistaka.exe
